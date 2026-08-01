@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lin Li - Personal Website"
+title                    : "Lin Li"
 title_separator          : "-"
 name                     : &name "Lin Li"
 description              : &description "Personal website of Lin Li."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "linli97/linli97.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/avatar.jpg"
+  avatar           : "avatar.jpg"
   name             : "Lin Li"
   pronouns         : # example: "she/her"  
   bio              : "MS Student in Data Science & Human Behavior @ UW-Madison"
